@@ -19,6 +19,9 @@
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="C-Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -46,11 +49,12 @@
 
 <br />
 <br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=blue&style=plastic" alt="yuudj" /> </p>
 
 <br />
 
-<img align="left" alt="Yuudj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuudj&show_icons=true&hide_border=true" />
+![Yuudj's github stats](https://github-readme-stats.vercel.app/api?username=yuudj&show_icons=true&theme=radical)
 
 <div align="center">
 
