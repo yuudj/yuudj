@@ -26,6 +26,8 @@
 
 <div style="flex-wrap: wrap;align-items: flex-start;">
 
+<img  alt=".NET / .NET CORE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
+
 <img  alt="C-Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 <img alt="SQL" width="26px" s src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
@@ -35,8 +37,6 @@
 <img alt="AngularJS / Angualr 2+" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -59,6 +59,10 @@
 <img alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/azure/azure.png" />
 
 <img alt="Azure - Devops" width="26px" src="https://user-images.githubusercontent.com/17548538/52172149-6e1c7c80-2748-11e9-814f-fb4319a84a9b.png" />
+
+<img alt="Visual Studio Code" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />
+
+<img alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 
 <img alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"  />
 
