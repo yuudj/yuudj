@@ -69,32 +69,19 @@
 
 ### Connect with me:
 
-<p>
-    <a href="https://twitter.com/yuudj">
-        <img src="https://img.shields.io/twitter/follow/yuudj?style=social">
-    </a>
-</p>
-<p>
-    <a href="https://guthub.com/yuudj">
-        <img src="https://img.shields.io/github/followers/yuudj?label=follow&style=social">
-    </a>
-</p>
-<p>
-    <a href="https://www.linkedin.com/in/yuudj/">
-        <img src="https://img.shields.io/badge/-yuudj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuudj/">
-    </a>
-</p>
+[<img alt="yuudj | Twitter" src="https://img.shields.io/twitter/follow/yuudj?style=social"/>][twitter]<br/>
+
+[<img alt="yuudj | GitHub" src="https://img.shields.io/github/followers/yuudj?label=follow&style=social"/>][github]<br/>
+
+[<img alt="yuudj | YouTube" src="https://img.shields.io/badge/-yuudj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuudj/"/>][linkedin]<br/>
 
 [<img align="left" alt="yuudj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<br/>
 
-[<img align="left" alt="yuudj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="yuudj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
 <br/>
-<br/>
+<img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=blue&style=plastic" alt="yuudj" />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=blue&style=plastic" alt="yuudj" />
-<br/>
 
 ### Made with ❤️ using [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -103,7 +90,8 @@ Thanks [yuudj](https://github.com/yuudj) for the tips on this page.
 </div>
 
 [website]: https://yuudj.github.io/
+[github]: https://github.com/yuudj
 [twitter]: https://twitter.com/yuudj
 [youtube]: https://www.youtube.com/channel/UCnM5tOkZ63UHEOsw99nZD8g
-[instagram]: https://instagram.com/yuudj
+[instagram]: https://www.instagram.com/yuudj.me/
 [linkedin]: https://linkedin.com/in/yuudj
