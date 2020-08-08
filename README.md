@@ -10,18 +10,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun facts: Using the yuudj alias since a was a teenager, now a found it funny and original. A friend and I did some short YouTube tech videos for fun.
 
-### Connect with me:
-
-[<img align="left" alt="yuudj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="yuudj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="yuudj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yuudj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="yuudj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-<br/>
-
 ### Languages and Tools:
 
 <div style="flex-wrap: wrap;align-items: flex-start;">
@@ -78,10 +66,31 @@
 
 <img alt="Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg"  />
 </div>
-<br />
-<br />
 
-<br />
+### Connect with me:
+
+<p>
+    <a href="https://twitter.com/yuudj">
+        <img src="https://img.shields.io/twitter/follow/yuudj?style=social">
+    </a>
+</p>
+<p>
+    <a href="https://guthub.com/yuudj">
+        <img src="https://img.shields.io/github/followers/yuudj?label=follow&style=social">
+    </a>
+</p>
+<p>
+    <a href="https://www.linkedin.com/in/yuudj/">
+        <img src="https://img.shields.io/badge/-yuudj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuudj/">
+    </a>
+</p>
+
+[<img align="left" alt="yuudj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<br/>
+
+[<img align="left" alt="yuudj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=blue&style=plastic" alt="yuudj" />
