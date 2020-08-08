@@ -72,7 +72,7 @@
 
 <img alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"  />
 
-<img alt="Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/154px-Apache_kafka.svg.png
+<img alt="Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg
 " />
 
 </div>
