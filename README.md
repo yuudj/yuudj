@@ -84,9 +84,8 @@
 
 [<img align="left" alt="yuudj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<br/>
 
-[<img align="left" alt="yuudj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=blue&style=plastic" alt="yuudj" />
+<img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=green&style=plastic" alt="yuudj" />
 
 <div align="center">
 
