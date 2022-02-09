@@ -92,8 +92,6 @@
 
 ### Made with ❤️ using [Visual Studio Code](https://code.visualstudio.com/)
 
-Thanks [yuudj](https://github.com/yuudj) for the tips on this page.
-
 </div>
 
 [website]: https://yuudj.github.io/
