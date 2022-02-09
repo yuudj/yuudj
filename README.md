@@ -98,5 +98,4 @@
 [github]: https://github.com/yuudj
 [twitter]: https://twitter.com/yuudj
 [youtube]: https://www.youtube.com/channel/UCnM5tOkZ63UHEOsw99nZD8g
-[instagram]: https://www.instagram.com/yuudj.me/
 [linkedin]: https://linkedin.com/in/yuudj
