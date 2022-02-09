@@ -82,7 +82,7 @@
 
 [<img alt="yuudj | YouTube" src="https://img.shields.io/badge/-yuudj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuudj/"/>][linkedin]<br/>
 
-[<img align="left" alt="yuudj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<br/>
+[<img align="left" alt="yuudj | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]<br/>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=green&style=plastic" alt="yuudj" />
