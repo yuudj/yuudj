@@ -89,7 +89,7 @@
 
 <div align="center">
 
-### Made with ❤️ using [Visual Studio Code](https://code.visualstudio.com/)
+### Made with ❤️ ❤️ using [Visual Studio Code](https://code.visualstudio.com/)
 
 </div>
 
