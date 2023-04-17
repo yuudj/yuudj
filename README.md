@@ -3,7 +3,7 @@
 ## Software Architect, Developer, IoT Fan, Music Fan
 
 - 🔭 I’m currently working on a SaaS financial application
-- 🌱 I’m currently learning/using K8s, OpenShif and Kafka.
+- 🌱 I’m currently learning/using K8s, OpenShift and Kafka.
 - 👯 I’m looking to collaborate with other developer to create design patterns for applications using K8s CI/CD
 - 💬 Ask me about Angular 2+, C#, SQL or any code related stuff.
 - 📫 How to reach me: [Twitter - @yuudj](https://twitter.com/yuudj)
