@@ -1,11 +1,11 @@
 ### Hi there, I'm Ricardo - aka Yuudj 🤘
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuudj&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuudj&theme=gotham)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuudj&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuudj&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuudj&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuudj&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuudj&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuudj&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuudj&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuudj&theme=gotham&utcOffset=-3)
 
 ## Software Architect, Developer, IoT Fan, Music Fan
 
