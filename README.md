@@ -1,5 +1,12 @@
 ### Hi there, I'm Ricardo - aka Yuudj 🤘
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuudj&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuudj&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuudj&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuudj&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuudj&theme=dracula)
+
 ## Software Architect, Developer, IoT Fan, Music Fan
 
 - 🔭 I’m currently working on a SaaS financial application
