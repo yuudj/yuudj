@@ -9,7 +9,7 @@
 
 ## Software Architect, Developer, IoT Fan, Music Fan
 
-- 🔭 I’m currently working on a SaaS financial application using .NET 6/8, K8s / OpenShift, SQL and RabbitMQ
+- 🔭 I’m currently working on a SaaS financial application using .NET 6/8/9/10, K8s / OpenShift, SQL and RabbitMQ
 - 🌱 I’m currently using/learning ArgoCD and Ansible
 - 👯 I’m looking to collaborate with other developer to create design patterns for applications using K8s CI/CD
 - 💬 Ask me about Angular 2+, C#, SQL or any code related stuff.
